@@ -1,6 +1,6 @@
 # Food Restaurant Home Page (UI only)
 
-A landing page to improve css skill. All the elements are placed using position property.
+A landing page to improve CSS skills. All the elements are placed using the position property.
 
 ## Key Learnings
 
